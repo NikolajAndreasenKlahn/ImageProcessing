@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Klahns Image Processing
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Nikolaj
+    family-names: Andreasen Klahn
+    email: nikolajklahn@outlook.com
+    orcid: 'https://orcid.org/0009-0004-4275-5441'
+abstract: >-
+  MATLAB scripts for semi-automatic analysis of intensity
+  and co-location of signals in fluorescents images.
+
+
+  A UI has not been created and certain variables must be
+  manually assigned in the scripts.
+keywords:
+  - 'immunofluorescence, image processing'
+license: MIT
+commit: ' 933568a'
+version: '0.5'
