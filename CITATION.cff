@@ -8,8 +8,8 @@ message: >-
   metadata from this file.
 type: software
 authors:
-  - given-names: Nikolaj
-    family-names: Andreasen Klahn
+  - given-names: Nikolaj Andreasen
+    family-names: Klahn
     email: nikolajklahn@outlook.com
     orcid: 'https://orcid.org/0009-0004-4275-5441'
 abstract: >-
