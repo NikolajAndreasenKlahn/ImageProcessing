@@ -15,8 +15,6 @@ authors:
 abstract: >-
   MATLAB scripts for semi-automatic analysis of intensity
   and co-location of signals in fluorescents images.
-
-
   A UI has not been created and certain variables must be
   manually assigned in the scripts.
 keywords:
